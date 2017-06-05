@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    	<group android:id="@+id/addGroup">
+    	<item 
+	    android:id="@+id/bvAdd"
+	    android:showAsAction="ifRoom"
+	    android:icon="@android:drawable/ic_input_add"
+	    android:title="@string/menu_add"
+	    android:actionViewClass="@android:drawable/ic_input_add"
+	    />
+    	</group>
+    	<group android:id="@+id/delGroup">
+    	<item 
+	    android:id="@+id/bvDel"
+	    android:showAsAction="ifRoom"
+	    android:icon="@android:drawable/ic_input_delete"
+	    android:title="@string/menu_delete"
+	    android:actionViewClass="@android:drawable/ic_input_delete"
+	    />
+    	</group>
+    	
+</menu>

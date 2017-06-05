@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/bActualiza"
+    	  android:showAsAction="always|withText"
+    	  android:title="@string/menu_Historico"
+    	  android:icon="@android:drawable/ic_popup_sync"
+    	  android:actionViewClass="android.widget.ButtonView"
+	    
+    	/>
+     <item android:id="@+id/bVerGraficaRtg"
+    	  android:showAsAction="always|withText"
+    	  android:title="@string/menu_Rtg"
+    	  android:icon="@android:drawable/ic_popup_sync"
+    	  android:actionViewClass="android.widget.ButtonView"
+	    
+    	/>
+      <item android:id="@+id/bVerGraficaRpd"
+    	  android:showAsAction="always|withText"
+    	  android:title="@string/menu_Rpd"
+    	  android:icon="@android:drawable/ic_popup_sync"
+    	  android:actionViewClass="android.widget.ButtonView"
+	    
+    	/>
+       <item android:id="@+id/bVerGraficaBlz"
+    	  android:showAsAction="always|withText"
+    	  android:title="@string/menu_Blz"
+    	  android:icon="@android:drawable/ic_popup_sync"
+    	  android:actionViewClass="android.widget.ButtonView"
+	    
+    	/>
+</menu>

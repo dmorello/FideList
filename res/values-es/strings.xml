@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FIDEList</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search_player">FideList</string>
+    <string name="title_activity_follow_players">FideList</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_activity_card_player">FideList</string>
+    <string name="title_activity_player">FideList</string>
+    <string name="title_activity_stadistics">FideList</string>
+    <string name="title_activity_progress">FideList</string>
+    <string name="title_activity_games">FideList</string>
+    <string name="menu_search">Búsqueda</string>
+    <string name="menu_lista">Lista</string>
+    <string name="menu_add">Añadir</string>
+   <string name="menu_delete">Eliminar</string>
+   <string name="menu_Rtg">Ver Rgt.</string>
+   <string name="menu_Rpd">Ver Rpd.</string>
+   <string name="menu_Blz">Ver Blz.</string>
+   <string name="menu_Historico">Descargar Histórico</string>
+   <string name="info">Info</string>
+   <string name="stadistics">Estadísticas</string>
+   <string name="federation">Fed:</string>
+   <string name="title">Título:</string>
+   <string name="ranking">Ranking</string>
+   <string name="white">Blancas</string>
+   <string name="Black">Negras</string>
+   <string name="all">Todas</string>
+   <string name="win">Ganadas</string>
+   <string name="lose">Perdidas</string>
+   <string name="draw">Tablas</string>
+   <string name="sync">Actualización de la lista de Jugadores</string>
+   <string name="ajustes">Ajustes</string>
+   <string name="title_activity_game_list">FIDEList</string>
+    <string name="title_activity_elo">Progresión</string>
+     <string name="hello_world">Hola Mundo!</string>
+        <string name="title_activity_simple_pie_chart">SimplePieChartActivity</string>
+</resources>
